@@ -1,0 +1,50 @@
+.container
+{
+    width: 450px;
+    height: 1270px;
+    padding: 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background:whitesmoke;
+    box-shadow: 14px 14px 20px #cbced1,
+                -14px -14px 20px white;
+}
+.container2
+{
+    width: 450px;
+    padding: 40px;
+    margin: auto;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background:rgba(143, 141, 141, 0.993); 
+    box-shadow: 14px 14px 20px #cbced1,
+                -14px -14px 20px white;
+}
+input
+{
+    background: whitesmoke;
+    padding: 10px;
+    padding-left: 20px;
+    height: 35px;
+    font-size: 14px;
+    border-radius: 50px;
+    box-shadow: inset 6px 6px 6px #cbced1,
+                inset -6px -6px 6px white;
+}
+button
+{
+    width: 90px;
+    margin-top: 20px;
+    background: #1DA1F2;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 900;
+    transition: 0.5s;
+    box-shadow: 6px 6px 6px #cbced1,
+                 -6px -6px 6px white;
+}
+table
+{
+    width: 350px;
+}

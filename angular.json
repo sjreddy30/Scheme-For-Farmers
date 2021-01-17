@@ -28,7 +28,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:\\Users\\ZomAdmin\\projectg\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "ProjectG"
+  "defaultProject": "ProjectG",
+  "cli": {
+    "analytics": "d9752f41-b12d-428a-ba89-a96fd5dc5968"
+  }
 }
